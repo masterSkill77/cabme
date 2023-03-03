@@ -17,5 +17,6 @@ yarn-error.log
 /.vscode
 /public/docs
 .scribe
+storage/
 resources/views/scribe/index.blade.php
 app/Console/Commands/TestCommand.php
